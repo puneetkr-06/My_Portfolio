@@ -899,6 +899,10 @@ display: none;
   .about-container{
     margin-top: 10px;
   }
+   .para{
+    font-size: 18px;
+    font-weight: 505;
+  }
   .timeline__event{
     justify-content: center;
     margin: 5% 0;
